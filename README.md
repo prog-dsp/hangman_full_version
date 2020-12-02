@@ -14,4 +14,4 @@
 ```
 dmitrypilavsky@MBP-Dmitry hangman % ruby main.rb
 ```
-Автор: Пилявский Дмитрий
+[Автор: Пилявский Дмитрий](https://github.com/prog-dsp)
